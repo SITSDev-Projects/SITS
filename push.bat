@@ -1,6 +1,6 @@
 S:
 ECHO Moving to Directory
-cd S:\Documents\Product Development\Teams\TM2 - Geek Clique (Interfaces)\Documentation\GitHub\SitsDev
+cd S:\Documents\Product Development\Teams\TM2 - Geek Clique (Interfaces)\Documentation\GitHub
 ECHO adding files to master branch
 "C:\Program Files (x86)\Git\bin\git" add -A
 ECHO Commiting Changes
