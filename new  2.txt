@@ -1,0 +1,5 @@
+C:\Users\darren.dexter\AppData\Local\GitHub\GitHub.appref-ms --open-shell 
+
+http://git-scm.com/book/en/v2/Git-in-Other-Environments-Git-in-Powershell
+
+https://stackoverflow.com/questions/27948019/running-git-commands-in-powershell
