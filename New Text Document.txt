@@ -1,6 +1,0 @@
-Hellon world
-<<<<<<< HEAD
-sd
-=======
-fdfdfdf
->>>>>>> 28af3e4f74db786b6f3b09cc43bdf3c3c4755884
